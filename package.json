@@ -31,6 +31,6 @@
     "dist"
   ],
   "publishConfig": {
-    "registry": "http://maven.dev.qingtui.im:8081/repository/npm-internal/"
+    "registry": "your publish registry"
   }
 }
